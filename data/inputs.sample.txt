@@ -1,0 +1,5 @@
+# Example input file for Bluesky Followers Scraper
+# One actor (handle or DID) per line. Lines starting with # are ignored.
+
+regeneratedarts.bsky.social
+did:plc:u6uydz3x625hynuz6zuph2xp
