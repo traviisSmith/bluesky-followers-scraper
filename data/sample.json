@@ -1,0 +1,26 @@
+[
+  {
+    "did": "did:plc:u6uydz3x625hynuz6zuph2xp",
+    "handle": "regeneratedarts.bsky.social",
+    "displayName": "regeneratedarts AKA Joi",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6uydz3x625hynuz6zuph2xp/bafkreihay7ox5gbqxvpzvlgwvvbodt2ykga7qro272bam4ne24zyrreyji@jpeg",
+    "createdAt": "2023-07-27T23:07:25.712Z",
+    "description": "Freelance Artist | personal account w/ art, transit and Philly content...",
+    "indexedAt": "2025-03-15T14:04:06.342Z",
+    "labels": [
+      {
+        "src": "did:plc:u6uydz3x625hynuz6zuph2xp",
+        "uri": "at://did:plc:u6uydz3x625hynuz6zuph2xp/app.bsky.actor.profile/self",
+        "cid": "bafyreicryqhyfyatqvaxms5ptxtwpqwdharsqfk2vq4kkyuyrnsxkzp6ji",
+        "val": "!no-unauthenticated",
+        "cts": "1970-01-01T00:00:00.000Z"
+      }
+    ],
+    "associated": {
+      "chat": {
+        "allowIncoming": "all"
+      }
+    },
+    "link_to_profile": "https://bsky.app/profile/regeneratedarts.bsky.social"
+  }
+]
